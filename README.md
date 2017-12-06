@@ -2,7 +2,7 @@
 
 ## Java PRO, Homework
 
-<- [**Java OOP**](https://github.com/YuriiSalimov/Prog.kiev.ua-JavaOOP)
+[**<- Java OOP**](https://github.com/YuriiSalimov/Prog.kiev.ua-JavaOOP)
 
 ### Занятие 1. Reflection & Annotations
 
@@ -160,6 +160,6 @@ HTML документа.
 
 -------------------------------------------------------------------------
 
-<- [**Java OOP**](https://github.com/YuriiSalimov/Prog.kiev.ua-JavaOOP)
+[**<- Java OOP**](https://github.com/YuriiSalimov/Prog.kiev.ua-JavaOOP)
 
 [_**Yurii Salimov**_](https://www.linkedin.com/in/yurii-salimov)  ([yuriy.alex.salimov@gmail.com](mailto:yuriy.alex.salimov@gmail.com))
