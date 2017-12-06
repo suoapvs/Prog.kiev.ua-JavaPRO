@@ -11,9 +11,14 @@
 Создать аннотацию, которая принимает параметры для метода. 
 Написать код, который вызовет метод, помеченный этой аннотацией, 
 и передаст параметры аннотации в вызываемый метод.
-```
-@Test(a = 2, b = 5)
-public void test(int a, int b) {...}
+```java
+class SomeClass {
+    
+    @Test(a = 2, b = 5)
+    public void test(int a, int b) {
+        // code
+    }
+}
 ```
 
 #### Задание № 1.2
@@ -28,7 +33,9 @@ public void test(int a, int b) {...}
 ```java
 @SaveTo(path = "c:\\file.txt")
 class Container {
+    
     String text = "...";
+    
     @Saver
     public void save(/*...*/) {
         // code
