@@ -41,7 +41,7 @@ class Container {
 }
 ```
 
-#### [Задание № 1.3](/src/main/java/com/salimov/yurii/lesson01/task03
+#### [Задание № 1.3](/src/main/java/com/salimov/yurii/lesson01/task03)
 Написать код, который сериализирует и десериализирует в/из файла все 
 значения полей класса, которые отмечены аннотацией @Save.
 
@@ -49,8 +49,7 @@ class Container {
 
 ### Занятие 2. XML & JSON
 
-#### Задание № 2.1
-<!--#### [Задание № 2.1](/src/main/java/com/salimov/yurii/lesson02/task01)-->
+#### [Задание № 2.1](/src/main/java/com/salimov/yurii/lesson02/task01)
 Есть список поездов, представленный с виде XML. Вывести на экран информацию о тех поездах, которые
 отправляются сегодня с 15:00 до 19:00.
 ```xml
