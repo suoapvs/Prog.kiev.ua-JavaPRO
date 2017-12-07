@@ -1,0 +1,15 @@
+{
+    "name": "Yurii",
+    "surname": "Salimov",
+    "phones": ["044-256-78-90", "066-123-45-67"],
+    "sites": [
+        "https://github.com/YuriiSalimov/Prog.kiev.ua-JavaStart",
+        "https://github.com/YuriiSalimov/Prog.kiev.ua-JavaOOP",
+        "https://github.com/YuriiSalimov/Prog.kiev.ua-JavaPRO"
+    ],
+    "address": {
+         "country": "UA",
+         "city": "Kyiv",
+         "street": "Secret, 007"
+    }
+}

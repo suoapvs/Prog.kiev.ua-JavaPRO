@@ -71,8 +71,7 @@ class Container {
 ```
 Написать код для добавления новых поездов в существующий XML.
 
-#### Задание № 2.2
-<!--#### [Задание № 2.2](/src/main/java/com/salimov/yurii/lesson02/task02)-->
+#### [Задание № 2.2](/src/main/java/com/salimov/yurii/lesson02/task02)
 Распарсить следующую структуру данных:
 ```json
 {
