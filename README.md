@@ -87,8 +87,7 @@ class Container {
 }
 ```
 
-#### Задание № 2.3
-<!--#### [Задание № 2.3](/src/main/java/com/salimov/yurii/lesson02/task03)-->
+#### [Задание № 2.3](/src/main/java/com/salimov/yurii/lesson02/task03)
 Написать парсер для Yahoo Finance в режиме XML (format = xml).
 
 -------------------------------------------------------------------------
