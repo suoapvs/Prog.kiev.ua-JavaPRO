@@ -1,0 +1,12 @@
+CREATE DATABASE IF NOT EXISTS ApartmentsDB;
+
+USE ApartmentsDB;
+
+CREATE TABLE IF NOT EXISTS Apartments (
+  id      INT           NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  region  VARCHAR(20)   NOT NULL DEFAULT '',
+  address VARCHAR(128)  NOT NULL DEFAULT '',
+  area    DOUBLE(5, 2)  NOT NULL DEFAULT 0,
+  rooms   INT           NOT NULL DEFAULT 0,
+  price   DOUBLE(10, 2) NOT NULL DEFAULT 0
+);

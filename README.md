@@ -105,7 +105,7 @@ HTML документа.
 ### Занятие 6. БД и SQL
 
 #### [Задание № 6.2](/src/main/java/com/salimov/yurii/lesson06/task02)
-<!--[Hibernate](/src/main/java/com/salimov/yurii/lesson06/task02H)-->
+##### [Задание № 6.2. Hibernate](/src/main/java/com/salimov/yurii/lesson06/task02H)
 Спроектировать базу «Квартиры». Каждая запись в базе содержит данные о 
 квартире (район, адрес, площадь, кол. комнат, цена). Сделать возможность 
 выборки квартир из списка по параметрам.
