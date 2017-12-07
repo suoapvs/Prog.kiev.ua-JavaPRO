@@ -20,8 +20,7 @@ class SomeClass {
 }
 ```
 
-#### Задание № 1.2
-<!--#### [Задание № 1.2](/src/main/java/com/salimov/yurii/lesson01/task02)-->
+#### [Задание № 1.2](/src/main/java/com/salimov/yurii/lesson01/task02)
 Написать класс TextContainer, который содержит в себе строку. 
 С помощью механизма аннотаций указать
 1) в какой файл должен сохраниться текст; 
