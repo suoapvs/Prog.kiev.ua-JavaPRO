@@ -6,8 +6,7 @@
 
 ### Занятие 1. Reflection & Annotations
 
-#### Задание № 1.1
-<!--#### [Задание № 1.1](/src/main/java/com/salimov/yurii/lesson01/task01)-->
+#### [Задание № 1.1](/src/main/java/com/salimov/yurii/lesson01/task01)
 Создать аннотацию, которая принимает параметры для метода. 
 Написать код, который вызовет метод, помеченный этой аннотацией, 
 и передаст параметры аннотации в вызываемый метод.
@@ -113,6 +112,8 @@ HTML документа.
 
 #### Задание № 6.2
 <!--#### [Задание № 6.2](/src/main/java/com/salimov/yurii/lesson06/task02)-->
+<!--[Hibernate](/src/main/java/com/salimov/yurii/lesson06/task02H)-->
+
 Спроектировать базу «Квартиры». Каждая запись в базе содержит данные о 
 квартире (район, адрес, площадь, кол. комнат, цена). Сделать возможность 
 выборки квартир из списка по параметрам.
@@ -127,9 +128,6 @@ HTML документа.
 
 ### Занятие 7. JPA / Hibernate
 
-#### Задание № 7.0
-<!--#### [Задание № 7.0](/src/main/java/com/salimov/yurii/lesson07/task00)-->
-Вывести на экран список групп с указанием количества студентов в каждой группе.
 
 #### Задание № 7.1
 <!--#### [Задание № 7.1](/src/main/java/com/salimov/yurii/lesson07/task01)-->
@@ -169,4 +167,5 @@ HTML документа.
 
 [**<- Java OOP**](https://github.com/YuriiSalimov/Prog.kiev.ua-JavaOOP)
 
-[_**Yurii Salimov**_](https://www.linkedin.com/in/yurii-salimov)  ([yuriy.alex.salimov@gmail.com](mailto:yuriy.alex.salimov@gmail.com))
+[_**Yurii Salimov**_](https://www.linkedin.com/in/yurii-salimov)
+([yuriy.alex.salimov@gmail.com](mailto:yuriy.alex.salimov@gmail.com))
