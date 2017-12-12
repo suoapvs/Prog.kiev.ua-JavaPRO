@@ -140,13 +140,11 @@ HTML документа.
 
 ### Занятие 8. Spring MVC
 
-#### Задание № 8.1
-<!--#### [Задание № 8.1](/src/main/java/com/salimov/yurii/lesson08/task01)-->
+#### [Задание № 8.1](/src/main/java/com/salimov/yurii/lesson08/task01_02)
 Сделать кнопку при нажатии на которую выведется список всех загруженных 
 фотографий с их id.
 
-#### Задание № 8.2
-<!--#### [Задание № 8.2](/src/main/java/com/salimov/yurii/lesson08/task02)-->
+#### [Задание № 8.2](/src/main/java/com/salimov/yurii/lesson08/task01_02)
 Сделать возможность выбрать из списка часть фото и удалить одним нажатием 
 на кнопку.
 
